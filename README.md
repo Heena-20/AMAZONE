@@ -1,0 +1,2 @@
+# AMAZONE
+Amazone Clone
